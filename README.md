@@ -25,4 +25,9 @@ Step 4: Event handler
 correctly. It should be declared using
 the const keyword.
 
+Step 5: Return statement
+
+ The return statement inside a function
+ component can only have a single root element. 
+ The root element <div> element is missing.
 
